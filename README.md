@@ -3,7 +3,7 @@
 A complete backend API built with **Node.js + Express.js + MongoDB** to manage all admin-side operations of an e-commerce platform.
 
 > 👤 **Developer:** Ram Suthar  
-> 📧 Email: ramsuthar.dev@gmail.com  
+> 📧 Email: ramgopalsuthar08@gmail.com  
 
 ---
 
